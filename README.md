@@ -28,13 +28,13 @@ WordWave is an intelligent next-word and short-sequence predictor built on a **B
 
 ```sh
 wordwave/
-├── app.py                 # Streamlit app UI
-├── train_model.ipynb      # Jupyter Notebook for training and saving model
+├── app.py                 # Streamlit app UI and core functionalities
+├── word-wave.ipynb        # Jupyter Notebook for training and saving model
 ├── word-wave.keras        # Trained Keras model (saved format)
 ├── tokenizer.pkl          # Fitted tokenizer object (Pickle)
 ├── requirements.txt       # All Python dependencies
 ├── README.md              # This file
-└── utils.py               # Text generation, BLEU, perplexity, beam search logic
+└── .gitignore             # Standard gitignore file
 ```
 
 ---
