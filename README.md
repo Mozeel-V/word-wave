@@ -34,7 +34,7 @@ wordwave/
 ├── tokenizer.pkl          # Fitted tokenizer object (Pickle)
 ├── requirements.txt       # All Python dependencies
 ├── README.md              # This file
-└── .gitignore             # Standard gitignore file
+└── .gitignore             # Standard gitignore file template
 ```
 
 ---
